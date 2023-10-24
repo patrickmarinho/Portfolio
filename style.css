@@ -411,6 +411,11 @@ a{
     gap: 10px;
     margin: 5% auto;
 }
+@media (max-width: 1200px){
+    .Tecnologias{
+        height: auto;
+    }
+}
 .Tecnologias-titulo{
     color: #FFF;
     font-family: Rubik Mono One;
@@ -418,6 +423,11 @@ a{
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+@media (max-width: 1200px){
+    .Tecnologias-titulo{
+        font-size: 1.5rem;
+    }
 }
 .Tecnologias-subtitulo{
     color: #F3F0D4;
@@ -436,8 +446,9 @@ a{
     justify-content: center;
     align-items: center;
     gap: 15px;
-    margin-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 15px ;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 .container-Tecnologias-icone{
     display: flex;
