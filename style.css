@@ -360,25 +360,21 @@ a{
     flex-wrap: wrap;
     gap: 5px;
 }
-.projeto3-p, .projeto4-p, .projeto5-p,
-.projeto6-p, .projeto3-span, .projeto4-span,
-.projeto5-span, .projeto6-span{
+.projeto5-p, .projeto6-p, .projeto5-span, .projeto6-span{
     justify-content: center;
     text-align: center;
     align-items: center;
 }
-.span-EmBreve1-projeto3, .span-EmBreve2-projeto3, 
-.span-EmBreve3-projeto3, .span-EmBreve1-projeto4, .span-EmBreve2-projeto4, 
-.span-EmBreve3-projeto4, .span-EmBreve1-projeto5, .span-EmBreve2-projeto5, 
+.span-EmBreve1-projeto5, .span-EmBreve2-projeto5, 
 .span-EmBreve3-projeto5, .span-EmBreve1-projeto6, .span-EmBreve2-projeto6, 
 .span-EmBreve3-projeto6{
     animation: bounce 1s linear infinite;
 }
-.span-EmBreve2-projeto3, .span-EmBreve2-projeto4, .span-EmBreve2-projeto5,
+.span-EmBreve2-projeto5,
 .span-EmBreve2-projeto6{
     animation-delay: 0.3s;
 }
-.span-EmBreve3-projeto3, .span-EmBreve3-projeto4, .span-EmBreve3-projeto5,
+.span-EmBreve3-projeto5,
 .span-EmBreve3-projeto6{
     animation-delay: 0.6s;
 }
