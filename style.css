@@ -360,7 +360,7 @@ a{
     flex-wrap: wrap;
     gap: 5px;
 }
-.projeto5-p, .projeto6-p, .projeto5-span, .projeto6-span{
+.projeto6-p, .projeto6-span{
     justify-content: center;
     text-align: center;
     align-items: center;
